@@ -1,0 +1,7 @@
+{
+  "name": "Astrology App",
+  "description": "A mystical astrology app offering personalized readings for Western Astrology, Vedic Astrology, Tarot, Numerology, Chinese Astrology, and Daily Horoscopes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
